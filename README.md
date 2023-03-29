@@ -3,4 +3,4 @@
 
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![React App - Google Chrome 2023-03-29 23-13-48](https://user-images.githubusercontent.com/114434307/228659850-7e068e28-a983-4411-83ca-c2e1237c92b0.gif)
