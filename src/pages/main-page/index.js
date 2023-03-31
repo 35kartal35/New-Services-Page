@@ -153,7 +153,7 @@ export default function MainPage() {
                             </td>
                         </tr>
                         <tr>
-                            <th scope="row" className="text-start">Extra security</th>
+                            <th scope="row" className="text-start">Extra extra security</th>
                             <td></td>
                             <td></td>
                             <td>
